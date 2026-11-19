@@ -1,0 +1,8 @@
+# pedaco da faixa branca da estrada
+# 4 pontos, 2 triangulos
+# cada linha v traz x y z e a cor r g b, de 0 a 1
+v -0.100 0.010 -1.000 0.95 0.95 0.90
+v 0.100 0.010 -1.000 0.95 0.95 0.90
+v 0.100 0.010 1.000 0.95 0.95 0.90
+v -0.100 0.010 1.000 0.95 0.95 0.90
+f 4 3 2 1
